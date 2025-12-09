@@ -1,7 +1,5 @@
 ### Seja Bem Vindo(a)! Eu sou André Luis 👋
 
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andredevdantas&show_icons=true&theme=jolly)
-
 ## Sobre Mim
 
 #### Principais Tecnologias:
