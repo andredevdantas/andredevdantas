@@ -40,8 +40,8 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e por resol
 <br/>
 
 ## 📫 Formas de Contato
-- <img align="center" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" /> **E-mail:** [andredevdantas@gmail.com](mailto:andredevdantas@gmail.com)
-- <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> **LinkedIn:** [linkedin.com/in/andre-dev-dantas](https://www.linkedin.com/in/andre-dev-dantas/)
+- <a href="mailto:andredevdantas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> **E-mail:** [andredevdantas@gmail.com](mailto:andredevdantas@gmail.com)
+- <a href="https://www.linkedin.com/in/andre-dev-dantas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> **LinkedIn:** [linkedin.com/in/andre-dev-dantas](https://www.linkedin.com/in/andre-dev-dantas/)
 
 <br/>
 
