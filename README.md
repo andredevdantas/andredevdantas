@@ -39,15 +39,6 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e por resol
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andredevdantas&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredevdantas&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="150" />
-</div>
-
-<br/>
-
 ## 📫 Formas de Contato
 <a href="mailto:andredevdantas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andre-dev-dantas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
