@@ -42,9 +42,5 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e por resol
 <a href="https://www.linkedin.com/in/andre-dev-dantas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 <br/>
-
-<div align="center">
-  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
   
 <img width="100%" src="img-2.svg" alt="Footer wave"/>
