@@ -9,10 +9,9 @@
 
 Sou estudante de Ciência da Computação, apaixonado por tecnologia e por resolver problemas reais através de código. Atualmente, atuo com foco no desenvolvimento **Full Stack**, construindo desde interfaces dinâmicas e responsivas até APIs seguras e arquiteturas escaláveis.
 
-- 🚀 Experiência prática na criação de sistemas de gestão e painéis administrativos (Dashboards).
+- 🚀 Experiência prática no ecossistema JavaScript/TypeScript: **React, Next.js, Node.js e NestJS**.
 - 🧩 Forte atuação na construção de formulários complexos, validação de dados e consumo de APIs REST.
 - ⚙️ Familiaridade com ORMs, estruturação de banco de dados e arquitetura de software (MVC / Repository Pattern).
-- 🌱 Foco atual no ecossistema JavaScript/TypeScript: **React, Next.js, Node.js e NestJS**.
 
 <br/>
 
@@ -23,7 +22,6 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e por resol
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 
 ### ⚙️ Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
